@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Dracula Theme",
+    "code-runner.runInTerminal": true,
+    "editor.wordWrap": "on",
+    "json.schemas": [
+        
+    ]
+}
