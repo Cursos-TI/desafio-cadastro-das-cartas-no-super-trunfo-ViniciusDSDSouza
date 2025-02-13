@@ -6,5 +6,11 @@
     "editor.wordWrap": "on",
     "json.schemas": [
         
+    ],
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
